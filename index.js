@@ -1,1 +1,2 @@
-console.log("hey boy");
+console.log("hey BOY");
+console.log("success");
